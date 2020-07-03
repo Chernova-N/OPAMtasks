@@ -1,0 +1,2 @@
+C:\349\tasks\task55\Debug\task55.exe
+C:\349\tasks\task55\Debug\task55.pdb

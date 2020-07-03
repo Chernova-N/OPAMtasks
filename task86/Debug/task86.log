@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\349\tasks\task86\Source.cpp(30,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\349\tasks\task86\Source.cpp(35,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\349\tasks\task86\Source.cpp(36,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\349\tasks\task86\Source.cpp(47,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\349\tasks\task86\Source.cpp(48,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\349\tasks\task86\Source.cpp(54,23): warning C4018: <: несоответствие типов со знаком и без знака
+  task86.vcxproj -> C:\349\tasks\task86\Debug\task86.exe

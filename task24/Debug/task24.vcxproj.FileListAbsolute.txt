@@ -1,0 +1,2 @@
+C:\349\tasks\task24\Debug\task24.exe
+C:\349\tasks\task24\Debug\task24.pdb

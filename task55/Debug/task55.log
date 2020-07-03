@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\349\tasks\task55\Source.cpp(32,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\349\tasks\task55\Source.cpp(38,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\349\tasks\task55\Source.cpp(43,23): warning C4018: <: несоответствие типов со знаком и без знака
+  task55.vcxproj -> C:\349\tasks\task55\Debug\task55.exe

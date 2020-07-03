@@ -1,0 +1,2 @@
+C:\349\tasks\task77\Debug\task77.exe
+C:\349\tasks\task77\Debug\task77.pdb

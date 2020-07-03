@@ -1,0 +1,2 @@
+C:\349\tasks\task159\Debug\task159.exe
+C:\349\tasks\task159\Debug\task159.pdb
