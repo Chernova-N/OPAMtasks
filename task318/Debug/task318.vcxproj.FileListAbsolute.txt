@@ -1,0 +1,2 @@
+E:\Projects\UnivProjects\opam\OPAMtasks\task318\Debug\task318.exe
+E:\Projects\UnivProjects\opam\OPAMtasks\task318\Debug\task318.pdb
