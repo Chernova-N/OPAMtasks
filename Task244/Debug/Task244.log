@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\Projects\UnivProjects\opam\OPAMtasks\Task244\Source.cpp(43,27): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Projects\UnivProjects\opam\OPAMtasks\Task244\Source.cpp(45,31): warning C4018: <: несоответствие типов со знаком и без знака
+  Task244.vcxproj -> E:\Projects\UnivProjects\opam\OPAMtasks\Task244\Debug\Task244.exe
