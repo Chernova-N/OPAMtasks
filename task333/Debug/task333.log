@@ -1,0 +1,11 @@
+﻿  Source.cpp
+E:\Projects\UnivProjects\opam\OPAMtasks\task333\Source.cpp(124,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Projects\UnivProjects\opam\OPAMtasks\task333\Source.cpp(128,27): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Projects\UnivProjects\opam\OPAMtasks\task333\Source.cpp(130,19): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Projects\UnivProjects\opam\OPAMtasks\task333\Source.cpp(151,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Projects\UnivProjects\opam\OPAMtasks\task333\Source.cpp(155,27): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Projects\UnivProjects\opam\OPAMtasks\task333\Source.cpp(185,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Projects\UnivProjects\opam\OPAMtasks\task333\Source.cpp(186,31): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Projects\UnivProjects\opam\OPAMtasks\task333\Source.cpp(199,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Projects\UnivProjects\opam\OPAMtasks\task333\Source.cpp(199,56): warning C4018: <: несоответствие типов со знаком и без знака
+  task333.vcxproj -> E:\Projects\UnivProjects\opam\OPAMtasks\task333\Debug\task333.exe
