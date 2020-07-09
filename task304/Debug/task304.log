@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\Projects\UnivProjects\opam\OPAMtasks\task304\Source.cpp(43,25): warning C4305: =: усечение из "double" в "float"
+E:\Projects\UnivProjects\opam\OPAMtasks\task304\Source.cpp(49,25): warning C4305: =: усечение из "double" в "float"
+E:\Projects\UnivProjects\opam\OPAMtasks\task304\Source.cpp(67,25): warning C4305: =: усечение из "double" в "float"
+  task304.vcxproj -> E:\Projects\UnivProjects\opam\OPAMtasks\task304\Debug\task304.exe
